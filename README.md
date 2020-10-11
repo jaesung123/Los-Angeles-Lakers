@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Lakers Fan Page #
 
-You can use the [editor on GitHub](https://github.com/jaesung123/Los-Angeles-Lakers/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The Los Angeles Lakers have finally made it to the NBA Finals since ten years, and loyal Laker fans rejoice at the sight of this accomplishment. Now with the 3-2 lead, the Lakers can taste their first championship that awaits them eagerly. Motivation entices the fan base as the tragic accident of the helicopter crash claimed the life of Kobe Bryant. The Laker team desires to make this beloved hall of famer proud and win the NBA Finals for Kobe Bryant.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Kobe Byrant Passing Away](https://wallpaperaccess.com/full/2396909.jpg)
 
-### Markdown
+## The Lakers Stance in the NBA Finals ##
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Lakers are up 3-2 in the NBA Finals against Miami Heat and winning this championship is very promising. The Miami Heat are a formidable opponent as they have closed in a deficit of 3-1, and Jimmy Butler is ready to take over whenever the Lakers are slacking at any end of the floor. LeBron James is more motivated then ever as he desperately wants to fulfull his legacy and his stats prove his dominance. On the fifth game of the NBA Finals, Anthony Davis has injured himself so it may resist him from being his usual aggressive self. This Sunday, the Lakers have a chance to win it all and take home the victory for Kobe Bryant and all the hard work that was dedicated toward this season. Miami Heat are down due to their point gaurd, Goran Dragic, is a missing vital piece from the team due to his injury.
 
-```markdown
-Syntax highlighted code block
+![Miami vs Lakers](https://sportsbookwire.usatoday.com/wp-content/uploads/sites/16/2020/10/USATSI_15003955.jpg?w=1000&h=600&crop=1)
 
-# Header 1
-## Header 2
-### Header 3
+### Why the Lakers Are the Best Team
 
-- Bulleted
-- List
+The Lakers have a rich if not the richest history in the NBA. Shaquille O Neal, Kareem Abdul Jabbar, Jerry West, Kobe Bryant, LeBron James, Anthony Davis, and so many more stars elevated this team. The Lakers hold sixteen championships and are looking to receive the seventeenth championship.
 
-1. Numbered
-2. List
+![Lakers History](https://clutchpoints.com/wp-content/uploads/2020/04/lakers-4.jpg)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jaesung123/Los-Angeles-Lakers/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Link](https://www.nba.com/lakers/)
